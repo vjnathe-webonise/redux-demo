@@ -1,0 +1,12 @@
+body {
+    background: #95d6a0;
+}
+.container {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
